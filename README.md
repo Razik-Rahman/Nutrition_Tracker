@@ -56,7 +56,4 @@ This project helped me learn:
 * Cloud database support
 * Better search and filtering
 
-## Author
-
-Razik Rahman
 
