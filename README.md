@@ -1,3 +1,3 @@
 # food_list
 
-A new Flutter project.
+A First Flutter project.
